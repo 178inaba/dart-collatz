@@ -1,6 +1,6 @@
-# collatz
+# dart-collatz
 
-collatz problem command-line application.
+collatz problem command-line application in dart.
 
 ## example
 
