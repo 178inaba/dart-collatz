@@ -1,0 +1,8 @@
+name: dart-collatz
+version: 1.0.0
+description: collatz problem command-line application.
+author: 178inaba
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
